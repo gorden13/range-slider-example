@@ -1,0 +1,93 @@
+// Colors
+$primary: #3F4CB1;
+$secondary: #DDE3F3;
+$success: #4CB13F;
+$warning: #FFCC3D;
+$danger: #F20000;
+$light: #7C7F83;
+$dark: #2E3033;
+$white: #FFFFFF;
+
+// Spacing
+$spacer: 2rem;
+
+// Body
+$body-bg: #f0f6fc;
+$body-color: $dark;
+
+// Links
+$link-hover-color: #535FBB;
+$link-hover-decoration: none;
+
+// Typography
+$font-family-sans-serif: 'Open Sans';
+
+$font-size-base: 1rem;
+
+$h1-font-size: $font-size-base * 2.692;
+$h2-font-size: $font-size-base * 1.538;
+$h3-font-size: $font-size-base * 1.153;
+$h4-font-size: $font-size-base;
+$h5-font-size: $font-size-base;
+
+$hr-border-color: #E5EDF5;
+
+// Shared Buttons and Forms
+$input-btn-focus-box-shadow: none;
+
+// Buttons
+
+$btn-padding-y: 0.8rem;
+$btn-padding-x: 1.9rem;
+$btn-font-weight: 600;
+$btn-box-shadow: none;
+$btn-focus-box-shadow: none;
+$btn-active-box-shadow: none;
+$btn-disabled-opacity: 0.2;
+
+// Forms
+$input-padding-y: 0.75rem;
+$input-padding-x: 1rem;
+
+$input-disabled-bg: #ECECEC;
+$input-color: $dark;
+$input-border-color: #d8d8d8;
+$input-box-shadow: none;
+$input-focus-border-color: $primary;
+$input-focus-box-shadow: none;
+$input-placeholder-color: $light;
+$input-background-color: #f7f7f7;
+
+$custom-control-indicator-size: 1.5rem;
+
+// Cards
+$card-spacer-y: 2.5rem;
+$card-spacer-x: 2.5rem;
+$card-border-width: 0;
+
+// Alerts
+$alert-padding-y: 1rem;
+$alert-padding-x: 2rem;
+$alert-border-width: 0;
+$alert-bg-level: 0;
+$alert-color-level: -12;
+
+// Progress bars
+$progress-height:                   1.53rem;
+$progress-font-size:                1rem;
+$progress-bg:                       $secondary;
+$progress-border-radius:            1rem;
+$progress-box-shadow:               none;
+$progress-bar-bg:                   $primary;
+
+// Pagination
+$pagination-padding-y: .75rem;
+$pagination-padding-x: .75rem;
+$pagination-border-width: 0;
+$pagination-color: $light;
+$pagination-hover-color: $primary;
+$pagination-hover-bg: $white;
+
+// Phone sizes
+$screen-phone-min-width: 320px;
+$screen-phone-max-width: 959px;
