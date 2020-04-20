@@ -1,24 +1,18 @@
 # range-slider-example
 
-## Project setup
+## Инициализация и запуск
 ```
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Тестовое задание:
 
-### Lints and fixes files
-```
-npm run lint
-```
+Реализовать слайдер средставами vue
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- при изменении значений в инпутах полоска слайдера должна изменяться автоматически, 
+  и наоборот при прокрутке полузнка слайдера изменять значения в инпутах
+- использовать отдельный компонент для сайдера
+- использовать vuex
+- сверстать по примеру https://take.ms/Vam6G
